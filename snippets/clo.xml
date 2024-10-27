@@ -3,15 +3,11 @@
 
   <remote  name="aospa"
            fetch="https://github.com/AOSPA"
-           revision="refs/heads/uvite" />
-
-  <remote  name="blobs"
-           fetch="https://github.com/ThankYouMario"
-           revision="refs/heads/uvite" />
+           revision="refs/heads/vauxite" />
 
   <remote  name="clo"
            fetch="https://git.codelinaro.org/clo/"
-           revision="refs/tags/LA.QSSI.14.0.r1-10000.04-qssi.0" />
+           revision="refs/tags/LA.QSSI.15.0.r1-10300-qssi.0" />
 
   <!-- Device -->
   <project path="device/qcom/qssi" name="android_device_qcom_qssi" remote="aospa" />
