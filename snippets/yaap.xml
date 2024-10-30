@@ -99,6 +99,7 @@
   <project path="hardware/qcom-caf/sm8650/display" name="hardware_qcom-caf_sm8650_display" remote="yaap" />
   <project path="hardware/qcom-caf/sm8650/media" name="hardware_qcom-caf_sm8650_media" remote="yaap" />
   <project path="hardware/qcom-caf/wlan" name="hardware_qcom-caf_wlan" remote="yaap" />
+  <project path="hardware/qcom-caf/thermal" name="hardware_qcom-caf_thermal" remote="yaap" />
   <project path="hardware/qcom-caf/common" remote="yaap" name="hardware_qcom-caf_common" >
     <!-- add guard for AOSP hardware/qcom dir -->
     <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
