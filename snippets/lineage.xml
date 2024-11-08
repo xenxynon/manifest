@@ -77,7 +77,6 @@
   <project path="vendor/qcom/opensource/libfmjni" remote="lineage" name="android_vendor_qcom_opensource_libfmjni" groups="qcom" revision="lineage-22.0" />
   <project path="vendor/qcom/opensource/power" remote="lineage" name="android_vendor_qcom_opensource_power" groups="qcom,kailua-vendor" revision="lineage-22.0" />
   <project path="vendor/qcom/opensource/thermal-engine" remote="lineage" name="android_vendor_qcom_opensource_thermal-engine" groups="qcom,kailua-vendor" />
-  <project path="vendor/qcom/opensource/usb" remote="lineage" name="android_vendor_qcom_opensource_usb" groups="qcom,kailua-vendor" revision="lineage-22.0" />
   <project path="vendor/qcom/opensource/vibrator" remote="lineage" name="android_vendor_qcom_opensource_vibrator" groups="qcom,kailua-vendor" />
 
   <!-- Packages -->
