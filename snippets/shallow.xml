@@ -5,7 +5,4 @@
 
     <remove-project name="platform/external/icu" />
     <project path="external/icu" name="platform/external/icu" clone-depth="1" />
-
-    <remove-project name="platform/external/kotlinc" />
-    <project path="external/kotlinc" name="platform/external/kotlinc" clone-depth="1" />
 </manifest>
